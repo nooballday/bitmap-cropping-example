@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "457270721057",
+    "firebase_url": "https://hajj-bot.firebaseio.com",
+    "project_id": "hajj-bot",
+    "storage_bucket": "hajj-bot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457270721057:android:03ff754ccbeeee8e",
+        "android_client_info": {
+          "package_name": "com.naufal.androidocrlearning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457270721057-u7m4m5itq075dmij53ak9ji4nf3q7d9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlmxLSKQIBj6JZoxxCxZzrLvq-2kQOFYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
